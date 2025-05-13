@@ -6,8 +6,8 @@ flame_sensor_pin = 17
 buzzer_pin = 18
 led_pin = 23
 
-account_sid = 'ACe83d72fcbe30e57bf65cb1fd9593bb11'
-auth_token = 'af2be29f941e809de106f868e89fe0a8'
+account_sid = 'xxxxx'
+auth_token = 'xxxxx'
 client = Client(account_sid, auth_token)
 
 GPIO.setmode(GPIO.BCM)
