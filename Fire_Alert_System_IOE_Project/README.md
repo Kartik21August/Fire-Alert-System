@@ -9,14 +9,14 @@ The Recommended Hardware/Software requirements are:
  LED bulb
  Raspberry pi -2/3/4 (4GB RAM)
  Flame Sensor
-5.2 Software Requirements
+1.2 Software Requirements
  Programming Language -PYTHON
  Raspberry Pi Operating System installed in SD card
  VNC viewer
  Security
  Testing and Quality Assurance
 
-1.2 API Requirements - TWILIO API
+1.3 API Requirements - TWILIO API
 
 Twilio provides a cloud communications platform that enables sending SMS
 programmatically using their REST API.
